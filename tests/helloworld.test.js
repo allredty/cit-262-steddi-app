@@ -1,4 +1,4 @@
-import hello from "utils./helloworld.js";
+import helloworld from "../utils/helloworld.js";
 import assert from "assert"
 
 it ("Should say hello", ()=>{

@@ -1,6 +1,6 @@
-const hello = () => {
+const helloworld = () => {
     return "hello"
 }
 helloworld()
 
-export default hello;
+export default helloworld;
