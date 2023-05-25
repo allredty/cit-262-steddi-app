@@ -1,6 +1,6 @@
 import React, { useRef, useState} from 'react';
 import { View, Text, StyleSheet, TextInput, Button, TouchableOpacity } from 'react-native';
-import { Picker } from '@react-native-picker/picker';
+
 import { Card, CardTitle, CardContent} from 'react-native-material-cards';
 
 
